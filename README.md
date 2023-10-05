@@ -50,19 +50,19 @@ print("{:.2f}".format(ans))
 ## Output:
 ### 1-Norm of a Matrix
 <br>
-<br>![mat 7a](https://github.com/Sudharsanram/Norm-of-a-matrix/assets/119393980/27850a88-46f0-4831-937c-150ddc40fa79)
+![mat 7a](https://github.com/Sudharsanram/Norm-of-a-matrix/assets/119393980/27850a88-46f0-4831-937c-150ddc40fa79)
 
 <br>
 
 ### 2-Norm of a Matrix
 <br>
-<br>![mat 7b](https://github.com/Sudharsanram/Norm-of-a-matrix/assets/119393980/f03bafde-3ea4-4f78-89cb-861e79064c59)
+![mat 7b](https://github.com/Sudharsanram/Norm-of-a-matrix/assets/119393980/f03bafde-3ea4-4f78-89cb-861e79064c59)
 
 <br>
 
 ### Infinity Norm of a Matrix
 <br>
-<br>![mat 7c](https://github.com/Sudharsanram/Norm-of-a-matrix/assets/119393980/b63d3149-6dad-4a5d-bd94-674ae471a8e4)
+![mat 7c](https://github.com/Sudharsanram/Norm-of-a-matrix/assets/119393980/b63d3149-6dad-4a5d-bd94-674ae471a8e4)
 
 <br>
 
